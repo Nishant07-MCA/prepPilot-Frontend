@@ -1,16 +1,23 @@
-# React + Vite
+# PrepPilot - Frontend 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A comprehensive SDE placement readiness and practice portal built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🔗 **Live Application:** [https://prep-pilot-frontend-mu.vercel.app/](https://prep-pilot-frontend-mu.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+* **Framework:** React + Vite
+* **Styling:** Tailwind CSS
+* **HTTP Client:** Axios
+* **Hosting:** Vercel
 
-## React Compiler
+## 📦 Features
+* User Authentication (JWT-based Login/Signup)
+* Topic-wise SDE Interview Practice Questions
+* Real-time Progress Tracking
+* Responsive Modern UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ⚙️ Local Setup
+1. Clone repository:
+   ```bash
+   git clone [https://github.com/Nishant07-MCA/prepPilot-Frontend.git](https://github.com/Nishant07-MCA/prepPilot-Frontend.git)
+   cd prepPilot-Frontend
