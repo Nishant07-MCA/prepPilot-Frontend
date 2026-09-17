@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://preppilot-backend-3z49.onrender.com',
+  baseURL: 'https://preppilot-backend-3z49.onrender.com/api',
 });
 
 // Auto attach JWT token agar user logged in ho
